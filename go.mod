@@ -1,4 +1,4 @@
-module github.com/kylape/istio-operator
+module github.com/kylape/istio-operator/v2
 
 go 1.13
 
